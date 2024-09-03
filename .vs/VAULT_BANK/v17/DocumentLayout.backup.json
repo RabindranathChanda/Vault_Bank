@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\vault_bank\\alltransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|solutionrelative:vault_bank\\alltransaction.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\vault_bank\\withdraw.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|solutionrelative:vault_bank\\withdraw.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\vault_bank\\dipositmoney.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|solutionrelative:vault_bank\\dipositmoney.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\vault_bank\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|solutionrelative:vault_bank\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\vault_bank\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|solutionrelative:vault_bank\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\vault_bank\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|solutionrelative:vault_bank\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|f:\\visual studio projects\\asp.net project\\vault_bank\\vault_bank\\withdraw.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|solutionrelative:vault_bank\\withdraw.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\vault_bank\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|solutionrelative:vault_bank\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\vault_bank\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{018940D4-1E10-41D4-8BDB-ADAEE2B8A8A4}|VAULT_BANK\\VAULT_BANK.csproj|solutionrelative:vault_bank\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Withdraw.aspx",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Withdraw.aspx",
+              "RelativeDocumentMoniker": "VAULT_BANK\\Withdraw.aspx",
+              "ToolTip": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Withdraw.aspx",
+              "RelativeToolTip": "VAULT_BANK\\Withdraw.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-05T04:13:30.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "VAULT_BANK\\Register.aspx.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Register.aspx.cs",
+              "RelativeToolTip": "VAULT_BANK\\Register.aspx.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAqwLYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T03:18:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "VAULT_BANK\\Login.aspx.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Login.aspx.cs",
+              "RelativeToolTip": "VAULT_BANK\\Login.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwEAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:46:46.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "VAULT_BANK\\Dashboard.aspx",
+              "ToolTip": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Dashboard.aspx",
+              "RelativeToolTip": "VAULT_BANK\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T02:40:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "VAULT_BANK\\Dashboard.aspx.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Dashboard.aspx.cs",
+              "RelativeToolTip": "VAULT_BANK\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAUwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:38:08.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Withdraw.aspx.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Withdraw.aspx.cs",
+              "RelativeDocumentMoniker": "VAULT_BANK\\Withdraw.aspx.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Withdraw.aspx.cs",
+              "RelativeToolTip": "VAULT_BANK\\Withdraw.aspx.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAqwHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:36:48.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DipositMoney.aspx.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\DipositMoney.aspx.cs",
+              "RelativeDocumentMoniker": "VAULT_BANK\\DipositMoney.aspx.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\DipositMoney.aspx.cs",
+              "RelativeToolTip": "VAULT_BANK\\DipositMoney.aspx.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAIcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:33:50.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllTransaction.aspx.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\AllTransaction.aspx.cs",
+              "RelativeDocumentMoniker": "VAULT_BANK\\AllTransaction.aspx.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\AllTransaction.aspx.cs",
+              "RelativeToolTip": "VAULT_BANK\\AllTransaction.aspx.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:46:35.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Web.config",
+              "RelativeDocumentMoniker": "VAULT_BANK\\Web.config",
+              "ToolTip": "F:\\Visual Studio Projects\\ASP.NET PROJECT\\VAULT_BANK\\VAULT_BANK\\Web.config",
+              "RelativeToolTip": "VAULT_BANK\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-30T03:04:00.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
