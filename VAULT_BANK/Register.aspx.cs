@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data.SqlClient;
 using System.Linq;
-using System.Net.Mail;
 using System.Net;
+using System.Net.Mail;
 using System.Web;
 using System.Web.Configuration;
 using System.Web.UI;
@@ -70,7 +71,7 @@ namespace VAULT_BANK
         private void SaveToDatabase()
         {
             //string connectionString = WebConfigurationManager.ConnectionStrings["Database"].ConnectionString;
-            string connectionString = "Data Source=RABINDRA\\SQLEXPRESS;Initial Catalog=VAULT_BANK;Integrated Security=True;";
+            string connectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
@@ -141,7 +142,7 @@ namespace VAULT_BANK
         }
         public void SaveLoginDetails(string username, string password)
         {
-            string connectionString = "Data Source=RABINDRA\\SQLEXPRESS;Initial Catalog=VAULT_BANK;Integrated Security=True;";
+            string connectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
             string query = "INSERT INTO Normal_Users (Username, Password) VALUES (@Username, @Password)";
 
             using (SqlConnection connection = new SqlConnection(connectionString))

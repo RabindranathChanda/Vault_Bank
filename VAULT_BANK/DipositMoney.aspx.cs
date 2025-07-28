@@ -36,10 +36,10 @@ namespace VAULT_BANK
                 BalanceInfo.InnerText = "₹" + Session["CurrentBalance"].ToString();
             }
 
-            string upiId = Session["upiid"].ToString(); 
-            string connString = "Data Source=RABINDRA\\SQLEXPRESS;Initial Catalog=VAULT_BANK;Integrated Security=True;";
+            string upiId = Session["upiid"].ToString();
+            string connectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
 
-            using (SqlConnection conn = new SqlConnection(connString))
+            using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 string query = "SELECT TOP 5 UPIID, DateTime, Particulars, DebitAmt, CreditAmt, Remarks FROM Transactions WHERE UPIID = @UPIID ORDER BY id DESC";
 
@@ -92,9 +92,9 @@ namespace VAULT_BANK
 
 
                 // Update the database
-                string connString = "Data Source=RABINDRA\\SQLEXPRESS;Initial Catalog=VAULT_BANK;Integrated Security=True;";
+                string connectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
 
-                using (SqlConnection conn = new SqlConnection(connString))
+                using (SqlConnection conn = new SqlConnection(connectionString))
                 {
                     conn.Open();
                     // Insert a new transaction record

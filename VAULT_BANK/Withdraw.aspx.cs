@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
+using System.Configuration;
 using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -29,9 +30,9 @@ namespace VAULT_BANK
         private void LoadTransactions()
         {
             string upiId = Session["upiid"].ToString();
-            string connString = "Data Source=RABINDRA\\SQLEXPRESS;Initial Catalog=VAULT_BANK;Integrated Security=True;";
+            string connectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
 
-            using (SqlConnection conn = new SqlConnection(connString))
+            using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 string query = "SELECT TOP 5 UPIID, DateTime, Particulars, DebitAmt, CreditAmt, Remarks FROM Transactions WHERE UPIID = @UPIID ORDER BY id DESC";
 
@@ -65,9 +66,9 @@ namespace VAULT_BANK
 
 
                 // Update the database
-                string connString = "Data Source=RABINDRA\\SQLEXPRESS;Initial Catalog=VAULT_BANK;Integrated Security=True;";
+                string connectionString = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
 
-                using (SqlConnection conn = new SqlConnection(connString))
+                using (SqlConnection conn = new SqlConnection(connectionString))
                 {
                     conn.Open();
                     // Insert a new transaction record
